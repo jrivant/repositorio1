@@ -1,4 +1,2 @@
 cinco.txt
 cinco.txt
-Linea añadida a cinco.txt
-
